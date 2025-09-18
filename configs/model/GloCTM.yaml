@@ -1,0 +1,11 @@
+learning_rate: 0.002
+lr_scheduler: StepLR
+lr_step_size: 125
+lr_gamma: 0.5
+epochs: 150
+batch_size: 128
+en1_units: 100
+dropout: 0.
+
+en_units: 200
+temperature: 0.2
